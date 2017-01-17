@@ -1,7 +1,18 @@
 ---
 layout: default
 ---
+
+
 <h1 class="headline">{{site.title}}</h1>
+
+<p>
+	Welcome to the blog of Kayhan Qaiser. Here I write about my thoughts and projects. Please get in touch!
+</p>
+
+<!-- {% for post in site.posts limit:1 %}
+<p>{{post.content}}</p>
+{% endfor %} -->
+
 {% for post in site.posts %}
 <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
 {% endfor %}
