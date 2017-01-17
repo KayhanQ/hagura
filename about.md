@@ -1,12 +1,7 @@
 ---
-title: About Hagura
+title: About Kayhan
 layout: post
 permalink: /about/
 ---
 
-For more themes, visit [https://blog.webjeda.com](https://blog.webjeda.com)
-
-Does the theme deserve a star?
-
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+I'm an iOS developer by day, and theretical origamist by night. If I had one dream it would be that everyone I know read Cixin Liu's Three Body Problem series. Lately I've been working on a book of cow poems.

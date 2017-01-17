@@ -4,6 +4,6 @@ layout: post
 permalink: /contact/
 ---
 
-May be a contact form.
+Contact me at <a href="mailto:{{site.email}}">{{site.email}}</a>. I love working on things with people.
 
-Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
+If you need it here's my [twitter](https://twitter.com/Kayhan_Qaiser) and [linkedin](https://www.linkedin.com/in/kayhanqaiser).
