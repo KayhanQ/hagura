@@ -25,9 +25,7 @@ Again, we do not want the z coordinate of the projection of the camera onto the 
 
 The tracking system we have developed could easily be applied to any other simple game. An example of a possible follow up to this project would be implementing Breakout using a ground robot as the paddle. This system could also be extended for other mixed media interfaces, for example, to display origami instructions on a piece of paper as it is being folded on a flat surface.
 
-<div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/w3Eru1b7DLI" frameborder="0" allowfullscreen></iframe>
-</div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/w3Eru1b7DLI' frameborder='0' allowfullscreen></iframe></div>
 
 
 ---
