@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "x -> y where x dies and y gets their songs"
-date:   2016-05-04 16:16:01 -0600
-categories: Questions
+date:   2017-01-19 08:25:00 -0600
+categories: Lists
 ---
 
 If you had to kill one musical artist or band and give all their songs to another musical artist or band who would you kill and give their songs to?
@@ -12,6 +12,7 @@ To clarify, the band you 'kill' ceases to exist and in this new reality that the
 Here's what people have said to me in the format x -> y where x dies and y gets their songs.
 
 Passion Pit -> LCD Sound System
+
 Travis Bretzer -> Roy Orbison
 
 Coldplay -> Matthew and the Atlas
