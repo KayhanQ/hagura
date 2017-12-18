@@ -4,4 +4,4 @@ layout: post
 permalink: /about/
 ---
 
-I'm an iOS developer by day, and theretical origamist by night. If I had one dream it would be that everyone I know read Cixin Liu's Three Body Problem series. Lately I've been working on a book of cow poems.
+Hey, let's talk about something. If you haven't read Cixin Liu's Three Body Problem series you should do that first. Lately I've been working on a collection of short stories.
