@@ -2,7 +2,7 @@
 layout: post
 title:  "The Myth of Officer James Squid
 date:   2017-12-18 00:00:01 -0600
-categories: Writing
+categories:
 ---
 
 Landi Kotal, Balochistan, 1898.
